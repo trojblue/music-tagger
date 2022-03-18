@@ -1,0 +1,1 @@
+TEST_DIR = "D:\CSC2\music-tagger\\test_folder"
